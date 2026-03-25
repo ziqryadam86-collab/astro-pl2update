@@ -3,7 +3,7 @@ import re
 import sys
 
 # URL target Astro PL 2
-url = "https://www.kds.tw/tv/sports-tv-live-streaming/astro-pl-2/"
+url = "https://www.kds.tw/tv/malaysia-tv-channels-online/tv3/"
 headers = {
     "User-Agent": "Mozilla/5.0 (Linux; Android 11)", 
     "Referer": "https://www.kds.tw/"
